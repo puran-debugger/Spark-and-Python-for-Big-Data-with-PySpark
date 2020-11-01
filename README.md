@@ -23,9 +23,11 @@
  - Collaborative Filtering for Recommender Systems
    - Recommender System Project
  ## Natural Language Processing
-   - Natural Language Processing Project
+ - NLP Tools
+ - Natural Language Processing Project
  ## Spark Streaming with Python 
-   - Spark Streaming Twitter Project
+ - Spark Streaming Documentation
+ - Spark Streaming Twitter Project
   
  
  
